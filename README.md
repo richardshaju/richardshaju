@@ -30,16 +30,16 @@
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][node]
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][mongo]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][git]
-[<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" style="padding-right:10px;" />][bootstap]
+[<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" style="padding-right:10px;" />][bootstrap]
 [<img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/handlebarsjs/handlebarsjs-icon.svg" style="padding-right:10px;" />][handle]
 [<img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="padding-right:10px;" />][firebase]
 <br />
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardshaju&show_icons=true&hide_border=true)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardshaju&show_icons=true&hide_border=true)](https://github.com/richardshaju/)
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardshaju&layout=compact&hide_border=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardshaju&layout=compact&hide_border=true)](https://github.com/richardshaju/)
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
