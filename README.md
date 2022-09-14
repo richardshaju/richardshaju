@@ -44,13 +44,9 @@
 <br />
 
 
-
-
-  <summary>GitHub Stats</summary>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardshaju)](https://github.com/richardshaju/github-readme-stats)>
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardshaju&show_icons=true)](https://github.com/richardshaju/github-readme-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardshaju&layout=compact&hide_border=true)](https://github.com/richardshaju/github-readme-stats)
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
