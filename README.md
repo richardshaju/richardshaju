@@ -30,16 +30,16 @@
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][node]
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][mongo]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/richardshaju#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://github.com/richardshaju#gh-light-mode-only)
-
-
+[<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" style="padding-right:10px;" />][bootstap]
+[<img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/handlebarsjs/handlebarsjs-icon.svg" style="padding-right:10px;" />][handle]
+[<img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="padding-right:10px;" />][firebase]
 <br />
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardshaju&show_icons=true)](https://github.com/richardshaju/github-readme-stats)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardshaju&layout=compact&hide_border=true)](https://github.com/richardshaju/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardshaju&show_icons=true&hide_border=true)]
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardshaju&layout=compact&hide_border=true)]
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
@@ -55,3 +55,6 @@
 [node]:https://nodejs.org/en/
 [mongo]:https://www.mongodb.com/
 [git]:https://git-scm.com/
+[bootstrap]:https://getbootstrap.com/
+[handle]:https://handlebarsjs.com/
+[firebase]:https://firebase.google.com/
