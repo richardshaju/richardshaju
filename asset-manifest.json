@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/richardshaju/static/css/main.d4d41942.css",
+    "main.js": "/richardshaju/static/js/main.ee2a35be.js",
+    "static/js/787.9c1e953c.chunk.js": "/richardshaju/static/js/787.9c1e953c.chunk.js",
+    "static/media/lap.jpg": "/richardshaju/static/media/lap.502000ff04f428d58dba.jpg",
+    "index.html": "/richardshaju/index.html",
+    "main.d4d41942.css.map": "/richardshaju/static/css/main.d4d41942.css.map",
+    "main.ee2a35be.js.map": "/richardshaju/static/js/main.ee2a35be.js.map",
+    "787.9c1e953c.chunk.js.map": "/richardshaju/static/js/787.9c1e953c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4d41942.css",
+    "static/js/main.ee2a35be.js"
+  ]
+}
