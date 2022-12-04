@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact: I love Client
-- 😻 Check out the sample shopping-cart I created: [Maxcart](https://maxcart.herokuapp.com/)
+- 😻 Check out the sample shopping-cart I created: [Maxcart](https://maxcart.onrender.com/)
 
 ### Connect with me:
 
