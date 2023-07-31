@@ -3,7 +3,7 @@
 ## I'm a MERN Stack Developer
 
 - 🔭 Seeking for freelance projects
-- 🌱 I’m currently learning everything 
+- 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact: I love Client
 - 😻 Check out the sample shopping-cart I created: [Maxcart](https://maxcart.onrender.com/)
