@@ -11,8 +11,8 @@
 ### Connect with me:
 
 
-[![website](./img/x-light.svg)](https://twitter.com/richard_shaju#gh-light-mode-only)
-[![website](./img/x-dark.svg)](https://twitter.com/richard_shaju#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/richard_shaju#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/richard_shaju#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/richard-shaju-a5902b244#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/richard-shaju-a5902b244#gh-dark-mode-only)
