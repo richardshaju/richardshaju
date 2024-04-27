@@ -35,7 +35,7 @@
 <br />
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardshaju&show_icons=true&hide_border=true)](https://github.com/richardshaju/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardshaju&show_icons=true&hide_border=true&hide_rank=true)](https://github.com/richardshaju/)
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardshaju&layout=compact&hide_border=true)](https://github.com/richardshaju/)
